@@ -130,6 +130,7 @@ Layout/SpaceAroundOperators:
     - '**/spec/actions_specs/xcodebuild_spec.rb'
 
 AllCops:
+  NewCops: enable
   Include:
     - '**/fastlane/Fastfile'
   Exclude:
@@ -151,3 +152,4 @@ Style/ZeroLengthPredicate:
 # Adds complexity
 Style/IfInsideElse:
   Enabled: false
+
