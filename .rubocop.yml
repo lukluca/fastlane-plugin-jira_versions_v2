@@ -27,7 +27,7 @@ Style/DoubleNegation:
   Enabled: false
 
 # Sometimes we allow a rescue block that doesn't contain code
-Lint/HandleExceptions:
+Lint/SuppressedException:
   Enabled: false
 
 # Cop supports --auto-correct.
