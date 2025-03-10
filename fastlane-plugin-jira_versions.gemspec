@@ -6,7 +6,7 @@ require 'fastlane/plugin/jira_versions/version'
 Gem::Specification.new do |spec|
   spec.name          = 'fastlane-plugin-jira_versions_v2'
   spec.version       = Fastlane::JiraVersions::VERSION
-  spec.authors       = %q{Sandy Chapman} ['Sandy Chapman', 'Luca Tagliabue']
+  spec.authors       = ['Sandy Chapman', 'Luca Tagliabue']
   spec.email         = ['sandychapman@gmail.com', 'homobonus.luca@gmail.com']
 
   spec.summary       = %q{Manage your JIRA project's releases/versions with this plugin.}
