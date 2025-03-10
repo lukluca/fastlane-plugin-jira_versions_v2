@@ -8,7 +8,7 @@ Lint/UselessAssignment:
     - '**/spec/**/*'
 
 # We could potentially enable the 2 below:
-Style/IndentHash:
+Layout/IndentHash:
   Enabled: false
 
 Style/AlignHash:
