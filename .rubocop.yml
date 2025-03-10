@@ -1,3 +1,8 @@
+require:
+  - rubocop-rake
+  - rubocop-rspec
+
+
 # kind_of? is a good way to check a type
 Style/ClassCheck:
   EnforcedStyle: kind_of?
