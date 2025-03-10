@@ -11,7 +11,7 @@ Lint/UselessAssignment:
 Layout/FirstHashElementIndentation:
   Enabled: false
 
-Style/AlignHash:
+Layout/AlignHash:
   Enabled: false
 
 # HoundCI doesn't like this rule
