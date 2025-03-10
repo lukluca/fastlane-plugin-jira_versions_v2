@@ -4,10 +4,10 @@
 
 ## Getting Started
 
-This project is a [fastlane](https://github.com/fastlane/fastlane) plugin. To get started with `fastlane-plugin-jira_versions`, add it to your project by running:
+This project is a [fastlane](https://github.com/fastlane/fastlane) plugin. To get started with `fastlane-plugin-jira_versions_v2`, add it to your project by running:
 
 ```bash
-fastlane add_plugin jira_versions
+fastlane add_plugin jira_versions_v2
 ```
 
 ## About jira_versions
