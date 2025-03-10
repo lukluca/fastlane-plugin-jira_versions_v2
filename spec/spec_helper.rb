@@ -5,6 +5,6 @@ module SpecHelper
 end
 
 require 'fastlane' # to import the Action super class
-require 'fastlane/plugin/jira_versions' # import the actual plugin
+require 'fastlane/plugin/jira_versions_v2' # import the actual plugin
 
 Fastlane.load_actions # load other actions (in case your plugin calls other actions or shared values)

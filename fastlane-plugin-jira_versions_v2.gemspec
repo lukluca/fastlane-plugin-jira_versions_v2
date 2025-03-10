@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'fastlane/plugin/jira_versions/version'
+require 'fastlane/plugin/jira_versions_v2/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'fastlane-plugin-jira_versions_v2'
-  spec.version       = Fastlane::JiraVersions::VERSION
+  spec.version       = Fastlane::JiraVersionsV2::VERSION
   spec.authors       = ['Sandy Chapman', 'Luca Tagliabue']
   spec.email         = ['sandychapman@gmail.com', 'homobonus.luca@gmail.com']
 

@@ -1,6 +1,6 @@
 module Fastlane
   module Helper
-    class JiraVersionsHelper
+    class JiraVersionsV2Helper
       # class methods that you define here become available in your action
       # as `Helper::JiraVersionsHelper.your_method`
       #

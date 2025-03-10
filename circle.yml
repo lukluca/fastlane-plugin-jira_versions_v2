@@ -3,4 +3,4 @@ test:
     - bundle exec rake
 machine:
   ruby:
-    version: 2.2.4
+    version: 3.4.2
